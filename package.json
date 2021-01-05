@@ -1,11 +1,24 @@
 {
-    "name": "cloudinary-react-and-node",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "author": "",
-    "license": "ISC"
+  "name": "MoodBoard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Khampheng25/MoodBoard.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Khampheng25/MoodBoard/issues"
+  },
+  "engines":{
+    "node": "14.15.3",
+    "npm": "6.14.9"
+  },
+  "homepage": "https://github.com/Khampheng25/MoodBoard#readme"
 }
